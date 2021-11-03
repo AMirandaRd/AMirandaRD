@@ -5,8 +5,12 @@
 Jr Front End Developer, social worker and mediator 
 ---
 On my returning, after 3 years living in Bournemouth (UK), I decided to give a shot to IT world! I took a job as Customer Service Agent in Textplus (based in California, USA) to get my foot in the door.
-Once on board,I met an amazing team and a very colaborative world! I wanted to know more about how applications work!
-I 
+Once on board,I met an amazing team and a very colaborative world! I wanted to know more about how an app works!
+I have the hunger of it, so I went for it!
+
+Joining Adalab I could reach this goal so Here I am! 
+
+Are U ready? Let's go!
 
 Here are some ideas to get you started:
 
@@ -14,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: React
 - 🤔 I’m looking for help with NodeJS,
 - 💬 Ask me about ask me anything that I can google! 
-- 📫 How to reach me: twitter, [Linkedin](https://www.linkedin.com/in/angela-miranda-rodriguez-909232224/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/angela-miranda-rodriguez-909232224/)
 
 
 ---
