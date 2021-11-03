@@ -4,12 +4,16 @@
 
 Jr Front End Developer, social worker and mediator 
 ---
+On my returning, after 3 years living in Bournemouth (UK), I decided to give a shot to IT world! I took a job as Customer Service Agent in Textplus (based in California, USA) to get my foot in the door.
+Once on board,I met an amazing team and a very colaborative world! I wanted to know more about how applications work!
+I 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my professional profile on social media to find my first job!
 - 🌱 I’m currently learning: React
 - 🤔 I’m looking for help with NodeJS,
-- 💬 Ask me about ask me anything I can google! 
+- 💬 Ask me about ask me anything that I can google! 
 - 📫 How to reach me: twitter, [Linkedin](https://www.linkedin.com/in/angela-miranda-rodriguez-909232224/)
 
 
